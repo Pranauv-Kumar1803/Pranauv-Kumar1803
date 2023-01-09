@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Pranauv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranauv-Kumar1803&show_icons=true&theme=radical)
+![Pranauv's GitHub stats](https://github-readme-stats.vercel.app/api?username=R.Pranauv Kumar&show_icons=true&theme=radical)
 
 
 <!--
