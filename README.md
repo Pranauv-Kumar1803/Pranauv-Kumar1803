@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Pranauv Kumar! 👋
 
->  💻 Full-stack Web Developer | MERN + TypeScript <br />
+>  💻 Full-stack Web Developer | MERN + TypeScript
+
 [![Linkedin: Pranauv Kumar](https://img.shields.io/badge/-Pranauv%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranauv-kumar-71b3a3251/)](https://www.linkedin.com/in/pranauv-kumar-71b3a3251/)
 [![GitHub: @Pranauv-Kumar1803](https://img.shields.io/github/followers/Pranauv-Kumar1803?label=follow&style=social)](https://github.com/Pranauv-Kumar1803)
 [![Gmail: Pranauv Kumar](https://img.shields.io/badge/Gmail-pranauv-red)](mailto:pranauv1803@gmail.com)
@@ -11,15 +12,14 @@ I am passionate about solving problems and always give my best to anything!
 
 I am optimistic and work well with teams as well as individually to exceed my own expectations and limitations!
 
-In my spare time, I love to watch youtube,anime or movies 💻 and listen to music :headphones:
+In my spare time, I love to watch youtube,anime or movies 💻 and love listening to music :headphones:
  .
 
 I enjoy development, DSA and I love studying about Cyber Security!
 
 If you ever want to collab for ideas or any projects, feel free to contact me! 😊
 
-
-
+## ⚡ Stats
 ![Pranauv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranauv-Kumar1803&show_icons=true&theme=radical)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pranauv-Kumar1803&theme=gotham&hide_border=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranauv-Kumar1803&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br />
