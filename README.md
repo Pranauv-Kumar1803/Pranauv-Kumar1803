@@ -20,12 +20,12 @@ I enjoy development, DSA and I love studying about Cyber Security!
 
 If you ever want to collab for ideas or any projects, feel free to contact me! 😊
 
-## ⚡ Stats
+# ⚡ Stats
 ![Pranauv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranauv-Kumar1803&show_icons=true&theme=radical)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pranauv-Kumar1803&theme=gotham&hide_border=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranauv-Kumar1803&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br />
 
-##  🎉 Skills  🎉
+#  🎉 Skills  🎉
 - **BackEnd**: Node.js, Express, GraphQL
 - **FrontEnd**: ReactJS, Redux, Redux-Toolkit
 - **UI Frameworks**: Material-UI, React-Bootstrap, TailwindCSS, Bootstrap
