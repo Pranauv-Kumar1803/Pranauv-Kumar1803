@@ -11,12 +11,12 @@ I am a Full stack developer from :house: Chennai, India!
 
 I am passionate about solving problems and always give my best to anything!
 
-I am optimistic and work well with teams as well as individually to exceed my own expectations and limitations!
+I am optimistic and work well with teams as well as individually to exceed my own expectations and overcome various challenges and limitations!
 
-In my spare time, I love to watch youtube,anime or movies 💻 and love listening to music :headphones:
+I love to watch Youtube, Anime or Movies in my spare time 💻 and I love listening to music :headphones:
  .
 
-I enjoy development, DSA and I love studying about Cyber Security!
+I enjoy Web Development, DSA and I love studying about Blockchain, Cyber Security and System Design!
 
 If you ever want to collab for ideas or any projects, feel free to contact me! 😊
 
@@ -26,13 +26,13 @@ If you ever want to collab for ideas or any projects, feel free to contact me! �
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranauv-Kumar1803&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br />
 
 #  🎉 Skills  🎉
-- **BackEnd**: Node.js, Express, GraphQL
+- **BackEnd**: Node.js, Express, Mongoose, Docker, Docker Compose, GraphQL
 - **FrontEnd**: ReactJS, Redux, Redux-Toolkit
-- **UI Frameworks**: Material-UI, React-Bootstrap, TailwindCSS, Bootstrap
-- **Testing Frameworks**: React-Testing-Library
+- **UI Frameworks/Libraries**: Material-UI, React-Bootstrap, TailwindCSS, Bootstrap, React ChartJs / React Apex Charts
+- **Testing Frameworks/Libraries**: React-Testing-Library, Jest
 - **Web technologies**: HTML5, CSS3, JavaScript
-- **Databases**: MongoDB (mongoose), MySQL
-- **Misc**: Git, Typescript, Socket.io, Stripe
+- **Databases**: MongoDB, MySQL
+- **Misc**: Git, Typescript, Hyperledger Fabric (Private Blockchain), Socket.io, Stripe
 - **Languages**: C, C++, Python, JavaScript, Java
 
 <!--
